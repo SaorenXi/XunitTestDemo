@@ -1,0 +1,9 @@
+D:\job\core\Test\Test\XUnitTest.Orders\bin\Debug\netstandard2.0\XUnitTest.Orders.deps.json
+D:\job\core\Test\Test\XUnitTest.Orders\bin\Debug\netstandard2.0\XUnitTest.Orders.dll
+D:\job\core\Test\Test\XUnitTest.Orders\bin\Debug\netstandard2.0\XUnitTest.Orders.pdb
+D:\job\core\Test\Test\XUnitTest.Orders\obj\Debug\netstandard2.0\XUnitTest.Orders.csprojAssemblyReference.cache
+D:\job\core\Test\Test\XUnitTest.Orders\obj\Debug\netstandard2.0\XUnitTest.Orders.csproj.CoreCompileInputs.cache
+D:\job\core\Test\Test\XUnitTest.Orders\obj\Debug\netstandard2.0\XUnitTest.Orders.AssemblyInfoInputs.cache
+D:\job\core\Test\Test\XUnitTest.Orders\obj\Debug\netstandard2.0\XUnitTest.Orders.AssemblyInfo.cs
+D:\job\core\Test\Test\XUnitTest.Orders\obj\Debug\netstandard2.0\XUnitTest.Orders.dll
+D:\job\core\Test\Test\XUnitTest.Orders\obj\Debug\netstandard2.0\XUnitTest.Orders.pdb
